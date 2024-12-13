@@ -1,2 +1,2 @@
-# SexPred
-Predict either male or female based on EEG signals using deep learning.
+# Sex Prediction using Deep Learning
+See https://vattha.wordpress.com/portfolio/sexpred/ for details.
